@@ -1,0 +1,5 @@
+- Arrumar GItHUB/juntar dois grupos.
+- Avaliação Heuristicas
+- Teste de Usabilidade
+- Arrumar diagramas de Classe
+- Desenvolvimento do código das Classes
